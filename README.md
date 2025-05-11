@@ -34,4 +34,5 @@ library: https://developers.google.com/interactive-media-ads/docs/sdks/html5/cli
 ## Live Preview
 
 You can view the project [here](https://elina-1201.github.io/technical-assessment-tw/).
+
 **Note:** Make sure to disable your ad blocker to ensure the video player functions as expected.
