@@ -30,3 +30,7 @@ library: https://developers.google.com/interactive-media-ads/docs/sdks/html5/cli
 - Worked with a library's API and its components
 - Manipulated DOM elements using vanilla JavaScript
 - Solved problems creatively, such as adding skip-ad functionality via URL parameters and implementing a custom mute/unmute button manually
+
+## Live Preview
+
+You can view the project [here](https://elina-1201.github.io/technical-assessment-tw/).
